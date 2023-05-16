@@ -5,7 +5,7 @@ The default [notfound.aspx](src/NotFound.aspx) page has an XSS vulnerability. If
 # 404 Handler for EPiServer
 
 ## Description
-[![Build Status](http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:GetaPackages_404Handler_00ci),branch:master/statusIcon)](https://github.com/Geta/404handler#readme)
+[![Build Status](https://teamcity.jetbrains.com/guestAuth/app/rest/builds/buildType:(id:GetaPackages_404Handler_00ci),branch:master/statusIcon)](https://github.com/Geta/404handler#readme)
 [![Platform](https://img.shields.io/badge/Platform-.NET%204.6.1-blue.svg?style=flat)](https://msdn.microsoft.com/en-us/library/w0x726c2%28v=vs.110%29.aspx)
 [![Platform](https://img.shields.io/badge/Episerver%20-%2011-orange.svg?style=flat)](https://world.episerver.com/cms/)
 
